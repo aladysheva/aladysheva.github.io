@@ -1,6 +1,6 @@
 
 
-[Research](https://github.com/aladysheva/aladysheva.github.io/research/research.md)
+[Research](https://aladysheva.github.io/research/research.md)
 
         		<a href="/">Home</a>
 	        	<a href="/about">About</a>
