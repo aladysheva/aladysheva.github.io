@@ -1,4 +1,5 @@
 ---
-Bla
+Layout: Default
+Title: Bla
 ---
 #Research
