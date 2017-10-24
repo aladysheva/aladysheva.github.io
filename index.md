@@ -2,9 +2,9 @@
 
 <ul>
         		<a href="/">Home</a>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
+	        	<a href="/about">About</a>
+        		<a href="/cv">CV</a>
+        		<a href="/blog">Blog</a>
 </ul>
 
 ## Welcome to GitHub Pages
