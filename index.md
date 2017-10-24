@@ -2,11 +2,11 @@
 
 [Research](https://aladysheva.github.io/research)
 
-        		<a href="/">Home</a>
-	        	<a href="/about">About</a>
-        		<a href="/cv">CV</a>
-        		<a href="/blog">Blog</a>
+[CV](https://aladysheva.github.io/cv)
 
+[Blog](https://aladysheva.github.io/blog)
+
+[Contact](https://aladysheva.github.io/contact)
 
 ## Welcome to GitHub Pages
 
