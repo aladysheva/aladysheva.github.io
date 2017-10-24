@@ -1,12 +1,6 @@
 
 
-[Research](https://aladysheva.github.io/research)
-
-[CV](https://aladysheva.github.io/cv)
-
-[Blog](https://aladysheva.github.io/blog)
-
-[Contact](https://aladysheva.github.io/contact)
+[Research](https://aladysheva.github.io/research)     [CV](https://aladysheva.github.io/cv)   [Blog](https://aladysheva.github.io/blog)       [Contact](https://aladysheva.github.io/contact)
 
 ## Welcome to GitHub Pages
 
