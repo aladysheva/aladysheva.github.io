@@ -1,3 +1,12 @@
+
+
+<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aladysheva/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
