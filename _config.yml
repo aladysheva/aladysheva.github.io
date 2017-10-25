@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aladysheva.com" # the base hostname & protocol for your site
 github_username:  aladysheva
-permalink: /:title/ #/blog/:year/:month/:title.html
+#permalink: /:title/ #/blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
   - jekyll-feed
