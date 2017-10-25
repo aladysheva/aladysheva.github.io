@@ -12,6 +12,4 @@ gems:
   - jekyll-feed
 # Build settings
 markdown: kramdown
-
-
 theme: minima
