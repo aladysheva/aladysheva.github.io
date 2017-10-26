@@ -1,7 +1,6 @@
 ---
 layout: default
 title:
-<link rel="stylesheet" href="/aladysheva/aladysheva.github.io/css/academicons.css"/>
 ---
 
 ## Welcome to my website!
@@ -18,6 +17,8 @@ Research fields: impact evaluations, ethnic diversity, child health and intrahou
 <aladysheva@sipri.org>
 
 Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 Solna, Sweden
+
+<link rel="stylesheet" href="/css/academicons.css"/>
 
 <i class="ai ai-google-scholar-square ai-3x"></i>
 
