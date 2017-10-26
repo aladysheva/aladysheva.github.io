@@ -3,6 +3,8 @@ layout: default
 title:
 ---
 
+<link rel="stylesheet" href="/path/to/folder/css/academicons.css"/>
+
 ## Welcome to my website!
 
 ![alt text]()
@@ -18,7 +20,7 @@ Research fields: impact evaluations, ethnic diversity, child health and intrahou
 
 Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 Solna, Sweden
 
-<orcid>
+<i class="ai ai-google-scholar-square ai-3x"></i>
 
 ### Publications
 
