@@ -22,7 +22,7 @@ Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 S
 
 <i class="ai ai-orcid-square ai-3x"></i>
 
-![alt text](orcid_16x16.png)
+![alt text](orcid_16x16.png) [orcid.org/0000-0002-4069-0486](http://orcid.org/0000-0002-4069-0486)
 
 ### Publications
 
