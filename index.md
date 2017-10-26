@@ -18,13 +18,16 @@ I am a development economist and senior researcher at the [Stockholm Internation
 
 Research fields: impact evaluations, ethnic diversity, child health and intrahousehold bargaining, social capital, colonialism, Soviet deporatations.
 
+
 ### Contact
 
-> <aladysheva@sipri.org>
+<aladysheva@sipri.org>
 
-> Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 Solna, Sweden
+Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 Solna, Sweden
 
-> ![alt text](orcid_16x16.png) [orcid.org/0000-0002-4069-0486](http://orcid.org/0000-0002-4069-0486)
+![alt text](orcid_16x16.png) [orcid.org/0000-0002-4069-0486](http://orcid.org/0000-0002-4069-0486)
+
+
 
 ### Publications
 
