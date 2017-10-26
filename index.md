@@ -3,18 +3,28 @@ layout: default
 title:
 ---
 
-<div class="begin-examples"></div>
 
 ## Welcome to my website!
 
+<div class="begin-examples"></div>
+
+## The Markdown
+We'll abuse some Markdown elements to get the layout we want. You can choose to style your page differently, but here we'll have code examples on the right, and code explanations on the left.
+
+### First, we need to tell Markdown where the two column layout begins.
+Anything before this element will be rendered normally.
+
 ```
 <div class="begin-examples"></div>
 ```
+
 And we should also tell it where the two column layout ends.
 
 ```
 <div class="end-examples"></div>
 ```
+
+### `h2` will be an example section header.
 
 
 ## bla bla
