@@ -22,6 +22,8 @@ Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 S
 
 <i class="ai ai-orcid-square ai-3x"></i>
 
+![alt text](orcid_16x16.png)
+
 ### Publications
 
 
