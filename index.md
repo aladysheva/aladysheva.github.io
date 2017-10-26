@@ -26,6 +26,9 @@ And we should also tell it where the two column layout ends.
 
 ### `h2` will be an example section header.
 
+<div class="end-examples"></div>
+
+
 
 ## bla bla
 
