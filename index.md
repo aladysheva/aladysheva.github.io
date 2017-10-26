@@ -31,7 +31,11 @@ Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 S
 
 ### Publications
 
-
+• Puri, Jyotsna, Anastasia Aladysheva, Vegard Iversen, Yashodhan Ghorpade, and Tilman Brück. 2017.
+What methods may be used in impact evaluations of humanitarian assistance?, Journal of Development
+Effectiveness Vol. 9, Iss. 4.
+• Aladysheva, Anastasia and Gulzhan Asylbek kyzy. 2016. The impact of crisis response: the Nepal earthquake.
+In SIPRI Yearbook.
 
 ### Working Papers
 
