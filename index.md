@@ -3,6 +3,8 @@ layout: default
 title:
 ---
 
+<div class="begin-examples"></div>
+
 ## Welcome to my website!
 
 ```
