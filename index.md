@@ -5,7 +5,17 @@ title:
 
 ## Welcome to my website!
 
+```
 <div class="begin-examples"></div>
+```
+And we should also tell it where the two column layout ends.
+
+```
+<div class="end-examples"></div>
+```
+
+
+## bla bla
 
 ![alt text](IMG_3437.jpeg)
 
@@ -13,6 +23,8 @@ title:
 I am a development economist and senior researcher at the [Stockholm International Peace Research Institute](https://www.sipri.org/), working in Peace & Development cluster. I am also a research affiliate at the [International Security and Development Center](http://isdc.org/). My research interests span from impact evaluations in developing countries to African pre-colonial development and the impact of Soviet policies on contemporary Russian development. Currently, I work on two large impact evaluations of peacebuilding programmes in Kyrgyzstan and a Panel Study [_Life in Kyrgyzstan (2010-2016)_](http://lifeinkyrgyzstan.org/). I did my PhD at the [Graduate Institute of International and Development Studies](http://graduateinstitute.ch/home.html) in Geneva. I worked for the World Bank on the impact evaluation of community monitoring in health and school facilities in Burkina Faso.
 
 <div class="end-examples"></div>
+
+## bla bla
 
 Research fields: impact evaluations, ethnic diversity, child health and intrahousehold bargaining, social capital, colonialism, Soviet deporatations.
 
