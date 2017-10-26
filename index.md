@@ -3,12 +3,12 @@ layout: default
 title:
 ---
 
+## About
+
+
 Welcome to my website!
 
-I am a development economist and senior researcher at the Stockholm International Peace Research Institute, working in Peace & Development cluster. My research interests spand from impact evaluations to African pre-colonial development and the impact of Soviet policies on contemporary Russian development. Currently, I work on two large impact evaluations of peacebuilding programmes in Kyrgyzstan and a Panel Study Life in Kyrgyzstan (2010-2016). I did my PhD at the Graduate Institute of International and Development Studies in Geneva. I worked for the World Bank on impact evaluation of community monitoring in health and school facilities in Burkina Faso.
-
-
-## About
+I am a development economist and senior researcher at the Stockholm International Peace Research Institute, working in Peace & Development cluster. My research interests span from impact evaluations to African pre-colonial development and the impact of Soviet policies on contemporary Russian development. Currently, I work on two large impact evaluations of peacebuilding programmes in Kyrgyzstan and a Panel Study _Life in Kyrgyzstan (2010-2016)_. I did my PhD at the Graduate Institute of International and Development Studies in Geneva. I worked for the World Bank on the impact evaluation of community monitoring in health and school facilities in Burkina Faso.
 
 You can use the [editor on GitHub](https://github.com/aladysheva/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
