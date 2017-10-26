@@ -3,8 +3,6 @@ layout: default
 title:
 ---
 
-<link rel="stylesheet" href="/path/to/folder/css/academicons.css"/>
-
 ## Welcome to my website!
 
 ![alt text]()
