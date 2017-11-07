@@ -36,7 +36,8 @@ Stockholm International Peace Research Institute, Signalistgatan, 9, SE-169 72 S
 
 ### Working Papers
 
-* Aladysheva, Anastasia and Tilman Brück. Determinants of child health: Evidence from new panel study in Kyrgyzstan.
-* Aladysheva, Anastasia. The Echo of Stalinism: Ethnic Diversity and Social Capital in Contemporary Russia.
-* Aladysheva, Anastasia. An Impact Evaluation of Putin’s Baby Bonus.
-* Aladysheva, Anastasia and Michael Gilligan. Does Similarity in Social Traits Breed Connection? Evidence from Lab-in-Field Behavioural Experiments in Burkina Faso.
+* Aladysheva, Anastasia and Tilman Brück. "Determinants of child health: Evidence from a new panel study in Kyrgyzstan".
+* Aladysheva, Anastasia. "The Echo of Stalinism: Ethnic Diversity and Social Capital in Contemporary Russia".
+* Aladysheva, Anastasia. "An Impact Evaluation of Putin’s Baby Bonus".
+* Aladysheva, Anastasia, Tilman Brück, Damir Esenaliev, and Eleonora Nillesen. "On the elusive quest for peace: evidence on the impact of a school-based peace-building intervention"
+* Aladysheva, Anastasia and Michael Gilligan. "Does Similarity in Social Traits Breed Connection? Evidence from Lab-in-Field Behavioural Experiments in Burkina Faso".
